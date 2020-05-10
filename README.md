@@ -1,2 +1,1 @@
-# hello-world
-Just another repository
+Please take care of me when I come here.
